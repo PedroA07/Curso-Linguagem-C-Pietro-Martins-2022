@@ -152,11 +152,12 @@ int main(){
 
     printf("Impressão de posição em posição: ");
     for(i=0; i<strlen(str3); i++){
-        printf("%c",s[i]);
+        printf("%c",str3[i]);
+        puts("");
     }
 
     //Exemplo 6 - (strcmp):
-    char hardText[N] = {exit};
+    char hardText[N] = {"exit"};
     char senha_usr[N];
     int ok;
 
