@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1727033949 source:c:\users\pedro\onedrive\cursos programação\curso linguagem c - pietro martins\aula_9\aula_9.2\projeto\main.c
+	<stdio.h>
+	"poligonos.c"
+
+1727033122 c:\users\pedro\onedrive\cursos programação\curso linguagem c - pietro martins\aula_9\aula_9.2\projeto\poligonos.h
+
+1727033578 c:\users\pedro\onedrive\cursos programação\curso linguagem c - pietro martins\aula_9\aula_9.2\projeto\poligonos.c
+	"poligonos.h"
+
