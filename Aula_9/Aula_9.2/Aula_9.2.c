@@ -10,6 +10,18 @@
         - Sintaxe correta do main():
             int main(int argc, char *argv[]){...}
 */
+/*
+        SEU PROJETO GANHANDO CORPO
+
+    - Integrar arquivos fonte distintos: "#include";
+        - Arquivos ".h":
+            - Variáveis globais;
+            - Protótipos de função;
+            - Definição de novos tipos;
+        - Arquivos ".c":
+            - Implementação da lógica;
+*/
+
 #include <stdio.h>
 
 int main(int argc, char *argv[]){
