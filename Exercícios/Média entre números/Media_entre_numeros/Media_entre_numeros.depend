@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727098357 source:c:\users\pedro\onedrive\cursos programação\curso linguagem c - pietro martins\exercícios\média entre números\media_entre_numeros\main.c
+	<stdio.h>
+	<stdlib.h>
+
