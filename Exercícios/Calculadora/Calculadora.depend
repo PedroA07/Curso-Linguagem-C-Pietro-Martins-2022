@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727196655 source:c:\users\pedro\onedrive\cursos programação\curso linguagem c - pietro martins\exercícios\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
