@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727199599 source:c:\users\pedro\onedrive\cursos programação\curso linguagem c - pietro martins\exercícios\nota_final_e_conceito\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
