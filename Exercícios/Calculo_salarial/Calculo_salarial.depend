@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727285506 source:c:\users\pedro\onedrive\cursos programação\curso linguagem c - pietro martins\exercícios\calculo_salarial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
