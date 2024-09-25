@@ -41,7 +41,8 @@ int main(int argc, char *argv[])
            "\tPessoa 1 - Idade: %d\n"
            "\tÚltima Pessoa - Peso: %.2f\n"
            "\tÚltima Pessoa - Altura: %.2f\n"
-           "\t------------------------------------------------------------\n\n", lista[0].nome, lista[0].idade, lista[2].peso, lista[2].altura);
+           "\t------------------------------------------------------------\n\n",
+           lista[0].nome, lista[0].idade, lista[2].peso, lista[2].altura);
 
     return 0;
 }
