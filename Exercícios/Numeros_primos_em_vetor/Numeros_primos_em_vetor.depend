@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727299710 source:c:\users\pedro\onedrive\cursos programação\curso linguagem c - pietro martins\exercícios\numeros_primos_em_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
